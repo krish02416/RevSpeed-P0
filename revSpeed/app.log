@@ -1,0 +1,138 @@
+2023-12-28 12:18:47,994 INFO [main] c.r.m.Application [Application.java:35] -- welcome page
+2023-12-28 12:19:57,837 INFO [main] c.r.m.Application [Application.java:35] -- welcome page
+2023-12-28 12:30:28,295 INFO [main] c.r.m.Application [Application.java:35] -- *****************************  WELCOME TO REVSPEED *******************
+2023-12-28 12:30:28,297 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 12:30:28,297 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 12:30:43,955 INFO [main] c.r.m.Application [Application.java:235] -- ******** REVSPEED REGISTRATION PAGE***********
+2023-12-28 12:30:43,957 DEBUG [main] c.r.m.Application [Application.java:244] -- Name: null
+2023-12-28 12:30:51,011 DEBUG [main] c.r.m.Application [Application.java:257] -- Phone number: 0
+2023-12-28 12:32:31,251 DEBUG [main] c.r.m.Application [Application.java:269] -- Email: null
+2023-12-28 12:32:57,535 DEBUG [main] c.r.m.Application [Application.java:281] -- Address: null
+2023-12-28 12:34:29,530 DEBUG [main] c.r.m.Application [Application.java:285] -- Zipcode: null
+2023-12-28 12:34:39,694 INFO [main] c.r.m.Application [Application.java:313] -- Successfully registered a new customer
+2023-12-28 12:34:39,694 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 12:34:39,694 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 12:35:06,797 ERROR [main] c.r.m.Application [Application.java:229] -- Invalid password or username
+2023-12-28 12:35:06,797 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 12:35:06,797 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 12:35:21,310 INFO [main] c.r.m.Application [Application.java:55] -- User with ID 9 successfully logged in
+2023-12-28 12:35:30,016 INFO [main] c.r.m.Application [Application.java:185] -- Adding a new plan
+2023-12-28 12:35:44,288 INFO [main] c.r.m.Application [Application.java:69] -- Profile method() -- select query
+2023-12-28 12:35:57,852 INFO [main] c.r.m.Application [Application.java:151] -- Going back to the HOME screen
+2023-12-28 12:35:59,532 INFO [main] c.r.m.Application [Application.java:163] -- Displaying current plan information
+2023-12-28 12:36:18,159 INFO [main] c.r.m.Application [Application.java:185] -- Adding a new plan
+2023-12-28 12:36:50,449 INFO [main] c.r.m.Application [Application.java:220] -- Going back to the HOME screen
+2023-12-28 12:36:50,449 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 12:36:50,450 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 12:41:34,970 INFO [main] c.r.m.Application [Application.java:35] -- *****************************  WELCOME TO REVSPEED *******************
+2023-12-28 12:41:34,971 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 12:41:34,971 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 13:20:18,481 INFO [main] c.r.m.Application [Application.java:35] -- *****************************  WELCOME TO REVSPEED *******************
+2023-12-28 13:20:18,482 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 13:20:18,482 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 13:20:22,040 INFO [main] c.r.m.Application [Application.java:235] -- ******** REVSPEED REGISTRATION PAGE***********
+2023-12-28 13:20:32,528 DEBUG [main] c.r.m.Application [Application.java:270] -- Phone number: 4545464444
+2023-12-28 13:20:48,177 DEBUG [main] c.r.m.Application [Application.java:281] -- Email: null
+2023-12-28 13:21:16,514 DEBUG [main] c.r.m.Application [Application.java:287] -- Address: retteri
+2023-12-28 13:21:22,525 DEBUG [main] c.r.m.Application [Application.java:300] -- Zipcode: 12345
+2023-12-28 13:26:15,819 INFO [main] c.r.m.Application [Application.java:35] -- *****************************  WELCOME TO REVSPEED *******************
+2023-12-28 13:26:15,820 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 13:26:15,820 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 13:26:28,080 INFO [main] c.r.m.Application [Application.java:35] -- *****************************  WELCOME TO REVSPEED *******************
+2023-12-28 13:26:28,081 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 13:26:28,081 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 13:26:32,481 INFO [main] c.r.m.Application [Application.java:235] -- ******** REVSPEED REGISTRATION PAGE***********
+2023-12-28 13:26:41,431 DEBUG [main] c.r.m.Application [Application.java:270] -- Phone number: 9234234223
+2023-12-28 13:26:43,861 DEBUG [main] c.r.m.Application [Application.java:281] -- Email: null
+2023-12-28 13:26:59,127 DEBUG [main] c.r.m.Application [Application.java:287] -- Address: kolathur
+2023-12-28 13:27:02,356 DEBUG [main] c.r.m.Application [Application.java:300] -- Zipcode: 31233
+2023-12-28 13:28:10,387 INFO [main] c.r.m.Application [Application.java:35] -- *****************************  WELCOME TO REVSPEED *******************
+2023-12-28 13:28:10,388 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 13:28:10,389 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 13:28:14,107 INFO [main] c.r.m.Application [Application.java:235] -- ******** REVSPEED REGISTRATION PAGE***********
+2023-12-28 13:28:21,459 DEBUG [main] c.r.m.Application [Application.java:270] -- Phone number: 1443313413
+2023-12-28 13:28:34,109 DEBUG [main] c.r.m.Application [Application.java:287] -- Address: kolathur
+2023-12-28 13:28:37,250 DEBUG [main] c.r.m.Application [Application.java:300] -- Zipcode: 12346
+2023-12-28 13:28:43,624 INFO [main] c.r.m.Application [Application.java:318] -- Successfully registered a new customer
+2023-12-28 13:28:43,624 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 13:28:43,624 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 13:35:28,591 INFO [main] c.r.m.Application [Application.java:35] -- *****************************  WELCOME TO REVSPEED *******************
+2023-12-28 13:35:28,594 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 13:35:28,594 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 13:35:55,451 ERROR [main] c.r.m.Application [Application.java:229] -- Invalid password or username
+2023-12-28 13:35:55,451 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 13:35:55,451 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.LoGIN
+2.Register
+3.Forgot Password
+2023-12-28 14:12:00,700 INFO [main] c.r.m.Application [Application.java:35] -- *****************************  WELCOME TO REVSPEED *******************
+2023-12-28 14:12:00,701 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 14:12:00,701 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 14:12:10,980 INFO [main] c.r.m.Application [Application.java:235] -- ******** REVSPEED REGISTRATION PAGE***********
+2023-12-28 14:12:19,957 DEBUG [main] c.r.m.Application [Application.java:270] -- Phone number: 3453532453
+2023-12-28 14:12:30,798 DEBUG [main] c.r.m.Application [Application.java:287] -- Address: porur
+2023-12-28 14:12:34,407 DEBUG [main] c.r.m.Application [Application.java:300] -- Zipcode: 32432
+2023-12-28 14:12:52,304 INFO [main] c.r.m.Application [Application.java:318] -- unSuccessfully registered a new customer
+2023-12-28 14:51:59,581 INFO [main] c.r.m.Application [Application.java:35] -- *****************************  WELCOME TO REVSPEED *******************
+2023-12-28 14:51:59,582 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 14:51:59,582 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 14:52:05,142 INFO [main] c.r.m.Application [Application.java:235] -- ******** REVSPEED REGISTRATION PAGE***********
+2023-12-28 15:09:11,639 INFO [main] c.r.m.Application [Application.java:35] -- *****************************  WELCOME TO REVSPEED *******************
+2023-12-28 15:09:11,642 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 15:09:11,642 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 15:11:31,483 INFO [main] c.r.m.Application [Application.java:35] -- *****************************  WELCOME TO REVSPEED *******************
+2023-12-28 15:11:31,485 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 15:11:31,485 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 15:11:40,896 INFO [main] c.r.m.Application [Application.java:235] -- ******** REVSPEED REGISTRATION PAGE***********
+2023-12-28 15:12:16,466 DEBUG [main] c.r.m.Application [Application.java:270] -- Phone number: 9790812345
+2023-12-28 15:12:32,761 DEBUG [main] c.r.m.Application [Application.java:281] -- Email: null
+2023-12-28 15:12:56,084 DEBUG [main] c.r.m.Application [Application.java:287] -- Address: chennai
+2023-12-28 15:13:04,789 DEBUG [main] c.r.m.Application [Application.java:300] -- Zipcode: 12345
+2023-12-28 15:13:20,746 INFO [main] c.r.m.Application [Application.java:318] -- unSuccessfully registered a new customer
+2023-12-28 15:13:28,011 INFO [main] c.r.m.Application [Application.java:314] -- Successfully registered a new customer
+2023-12-28 15:13:28,012 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 15:13:28,012 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 15:14:24,231 ERROR [main] c.r.m.Application [Application.java:229] -- Invalid password or EMAIL
+2023-12-28 15:14:24,231 DEBUG [main] c.r.m.Application [Application.java:39] -- Application login
+2023-12-28 15:14:24,231 DEBUG [main] c.r.m.Application [Application.java:40] -- 1.Login
+2.Register
+3.Forgot Password
+2023-12-28 15:14:41,220 INFO [main] c.r.m.Application [Application.java:55] -- User with ID 10 successfully logged in
+2023-12-28 15:14:48,198 INFO [main] c.r.m.Application [Application.java:69] -- Profile method() -- select query
+2023-12-28 15:15:37,066 WARN [main] c.r.m.Application [Application.java:157] -- Invalid option inside PROFILE SETTING switch: 3
+2023-12-28 15:15:39,418 INFO [main] c.r.m.Application [Application.java:151] -- Going back to the HOME screen
+2023-12-28 15:15:43,455 INFO [main] c.r.m.Application [Application.java:69] -- Profile method() -- select query
+2023-12-28 15:15:56,236 INFO [main] c.r.m.Application [Application.java:151] -- Going back to the HOME screen
+2023-12-28 15:16:04,221 INFO [main] c.r.m.Application [Application.java:185] -- Adding a new plan
+2023-12-28 15:17:24,932 INFO [main] c.r.m.Application [Application.java:185] -- Adding a new plan
